@@ -1,0 +1,51 @@
+- checks:
+    head:
+      slot: 0
+      root: '0x7a7b2cef665d3f86fcd0058cc2713773e6c8337c8a80f16fb09e59bebffffe30'
+- {tick: 35}
+- checks:
+    time: 35
+    head:
+      slot: 0
+      root: '0x7a7b2cef665d3f86fcd0058cc2713773e6c8337c8a80f16fb09e59bebffffe30'
+    justified_checkpoint:
+      epoch: 0
+      root: '0x7a7b2cef665d3f86fcd0058cc2713773e6c8337c8a80f16fb09e59bebffffe30'
+    finalized_checkpoint:
+      epoch: 0
+      root: '0x7a7b2cef665d3f86fcd0058cc2713773e6c8337c8a80f16fb09e59bebffffe30'
+    proposer_boost_root: '0x0000000000000000000000000000000000000000000000000000000000000000'
+- {block: block_0x56bf47a8645865383c1bae915391fddabb608a3075ad306cf2ce6c57fd6ea59c,
+  valid: true}
+- checks:
+    time: 35
+    head:
+      slot: 3
+      root: '0x958636b2fc81a19003eae3a808f27cc92ba36beaf523b8dfb4739afeeb4a5e3b'
+    justified_checkpoint:
+      epoch: 0
+      root: '0x7a7b2cef665d3f86fcd0058cc2713773e6c8337c8a80f16fb09e59bebffffe30'
+    finalized_checkpoint:
+      epoch: 0
+      root: '0x7a7b2cef665d3f86fcd0058cc2713773e6c8337c8a80f16fb09e59bebffffe30'
+    proposer_boost_root: '0x0000000000000000000000000000000000000000000000000000000000000000'
+- {block: block_0x52436341f78fdd4d84403e410730acbe9255e6d5a486c1b4f27fe4333598c976,
+  valid: true}
+- checks:
+    time: 35
+    head:
+      slot: 3
+      root: '0x958636b2fc81a19003eae3a808f27cc92ba36beaf523b8dfb4739afeeb4a5e3b'
+    justified_checkpoint:
+      epoch: 0
+      root: '0x7a7b2cef665d3f86fcd0058cc2713773e6c8337c8a80f16fb09e59bebffffe30'
+    finalized_checkpoint:
+      epoch: 0
+      root: '0x7a7b2cef665d3f86fcd0058cc2713773e6c8337c8a80f16fb09e59bebffffe30'
+    proposer_boost_root: '0x0000000000000000000000000000000000000000000000000000000000000000'
+- {attestation: attestation_0x297c6eeb51de0daa3f876633f8d37701bd9dc7fc9656d46e0ab4417ff5e854a5}
+- {attester_slashing: attester_slashing_0xf0076ae49375dadd8bc336812ef52b231464c925705a91d0e239d0916ba31d58}
+- checks:
+    head:
+      slot: 3
+      root: '0x958636b2fc81a19003eae3a808f27cc92ba36beaf523b8dfb4739afeeb4a5e3b'

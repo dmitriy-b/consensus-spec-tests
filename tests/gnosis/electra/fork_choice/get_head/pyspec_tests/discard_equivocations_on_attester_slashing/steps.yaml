@@ -1,0 +1,51 @@
+- checks:
+    head:
+      slot: 0
+      root: '0x405bbc72f59ccd105ed90186190e8d4d9b9d13f111c4ea7ad004091db51a9dc0'
+- {tick: 35}
+- checks:
+    time: 35
+    head:
+      slot: 0
+      root: '0x405bbc72f59ccd105ed90186190e8d4d9b9d13f111c4ea7ad004091db51a9dc0'
+    justified_checkpoint:
+      epoch: 0
+      root: '0x405bbc72f59ccd105ed90186190e8d4d9b9d13f111c4ea7ad004091db51a9dc0'
+    finalized_checkpoint:
+      epoch: 0
+      root: '0x405bbc72f59ccd105ed90186190e8d4d9b9d13f111c4ea7ad004091db51a9dc0'
+    proposer_boost_root: '0x0000000000000000000000000000000000000000000000000000000000000000'
+- {block: block_0x05bc02a375dfe1714117088af85eede6c8d8fe02e57fc2869f902358e24286ae,
+  valid: true}
+- checks:
+    time: 35
+    head:
+      slot: 3
+      root: '0xeaca267e7c941f0da5ba5050938c7309bad0e3df53331c81790ce6c5bace3c58'
+    justified_checkpoint:
+      epoch: 0
+      root: '0x405bbc72f59ccd105ed90186190e8d4d9b9d13f111c4ea7ad004091db51a9dc0'
+    finalized_checkpoint:
+      epoch: 0
+      root: '0x405bbc72f59ccd105ed90186190e8d4d9b9d13f111c4ea7ad004091db51a9dc0'
+    proposer_boost_root: '0x0000000000000000000000000000000000000000000000000000000000000000'
+- {block: block_0x294fa3b2b8e58b6b275bbf50b7df2fdc6781cc0f11d1aca0f1730cce24194b6a,
+  valid: true}
+- checks:
+    time: 35
+    head:
+      slot: 3
+      root: '0xeaca267e7c941f0da5ba5050938c7309bad0e3df53331c81790ce6c5bace3c58'
+    justified_checkpoint:
+      epoch: 0
+      root: '0x405bbc72f59ccd105ed90186190e8d4d9b9d13f111c4ea7ad004091db51a9dc0'
+    finalized_checkpoint:
+      epoch: 0
+      root: '0x405bbc72f59ccd105ed90186190e8d4d9b9d13f111c4ea7ad004091db51a9dc0'
+    proposer_boost_root: '0x0000000000000000000000000000000000000000000000000000000000000000'
+- {attestation: attestation_0xd50560383397652c91389b429f06ab904770505e3d4ffdeff4d24e43ab180a63}
+- {attester_slashing: attester_slashing_0xa8d2ff70cdd6ce4ae5d7a64db79392aad6f3d4fc25f962cdefb0a0182bcf529e}
+- checks:
+    head:
+      slot: 3
+      root: '0xeaca267e7c941f0da5ba5050938c7309bad0e3df53331c81790ce6c5bace3c58'

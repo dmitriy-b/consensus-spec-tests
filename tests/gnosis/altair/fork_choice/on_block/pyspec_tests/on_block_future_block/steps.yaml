@@ -1,0 +1,15 @@
+- {tick: 0}
+- checks:
+    time: 0
+    head:
+      slot: 0
+      root: '0x7a7b2cef665d3f86fcd0058cc2713773e6c8337c8a80f16fb09e59bebffffe30'
+    justified_checkpoint:
+      epoch: 0
+      root: '0x7a7b2cef665d3f86fcd0058cc2713773e6c8337c8a80f16fb09e59bebffffe30'
+    finalized_checkpoint:
+      epoch: 0
+      root: '0x7a7b2cef665d3f86fcd0058cc2713773e6c8337c8a80f16fb09e59bebffffe30'
+    proposer_boost_root: '0x0000000000000000000000000000000000000000000000000000000000000000'
+- {block: block_0x2dfe934b0d019cb4e2797a254a41c8ea1e41bfe69cbd35d7994a30ceefe2bd52,
+  valid: false}

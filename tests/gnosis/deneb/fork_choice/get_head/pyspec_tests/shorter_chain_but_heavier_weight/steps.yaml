@@ -1,0 +1,104 @@
+- checks:
+    head:
+      slot: 0
+      root: '0x2c8abe2391bbe13f6b9f7844c615cf3c3faea386f438587ab19f334ece77c4b6'
+- {tick: 5}
+- checks:
+    time: 5
+    head:
+      slot: 0
+      root: '0x2c8abe2391bbe13f6b9f7844c615cf3c3faea386f438587ab19f334ece77c4b6'
+    justified_checkpoint:
+      epoch: 0
+      root: '0x2c8abe2391bbe13f6b9f7844c615cf3c3faea386f438587ab19f334ece77c4b6'
+    finalized_checkpoint:
+      epoch: 0
+      root: '0x2c8abe2391bbe13f6b9f7844c615cf3c3faea386f438587ab19f334ece77c4b6'
+    proposer_boost_root: '0x0000000000000000000000000000000000000000000000000000000000000000'
+- {block: block_0x5c6fe87333d9f894b9e419520deddb99b3e4ca6e1c948444ce45b8e7e4f3e19b,
+  valid: true}
+- checks:
+    time: 5
+    head:
+      slot: 1
+      root: '0x8fd661e4553d2264deb3b368e6bd53beacb1cdc3581d9cfa6532919b392ca830'
+    justified_checkpoint:
+      epoch: 0
+      root: '0x2c8abe2391bbe13f6b9f7844c615cf3c3faea386f438587ab19f334ece77c4b6'
+    finalized_checkpoint:
+      epoch: 0
+      root: '0x2c8abe2391bbe13f6b9f7844c615cf3c3faea386f438587ab19f334ece77c4b6'
+    proposer_boost_root: '0x8fd661e4553d2264deb3b368e6bd53beacb1cdc3581d9cfa6532919b392ca830'
+- {tick: 10}
+- checks:
+    time: 10
+    head:
+      slot: 1
+      root: '0x8fd661e4553d2264deb3b368e6bd53beacb1cdc3581d9cfa6532919b392ca830'
+    justified_checkpoint:
+      epoch: 0
+      root: '0x2c8abe2391bbe13f6b9f7844c615cf3c3faea386f438587ab19f334ece77c4b6'
+    finalized_checkpoint:
+      epoch: 0
+      root: '0x2c8abe2391bbe13f6b9f7844c615cf3c3faea386f438587ab19f334ece77c4b6'
+    proposer_boost_root: '0x0000000000000000000000000000000000000000000000000000000000000000'
+- {block: block_0x9e9801ddb06f1f61b2a8f226fa015781d94ccac2536dd6de2a85216a4bcdaf47,
+  valid: true}
+- checks:
+    time: 10
+    head:
+      slot: 2
+      root: '0xcbd34a8076b50755e070e9b6ccf470856920ad321c6b8e41aceb83fe3d67bfb3'
+    justified_checkpoint:
+      epoch: 0
+      root: '0x2c8abe2391bbe13f6b9f7844c615cf3c3faea386f438587ab19f334ece77c4b6'
+    finalized_checkpoint:
+      epoch: 0
+      root: '0x2c8abe2391bbe13f6b9f7844c615cf3c3faea386f438587ab19f334ece77c4b6'
+    proposer_boost_root: '0xcbd34a8076b50755e070e9b6ccf470856920ad321c6b8e41aceb83fe3d67bfb3'
+- {tick: 15}
+- checks:
+    time: 15
+    head:
+      slot: 2
+      root: '0xcbd34a8076b50755e070e9b6ccf470856920ad321c6b8e41aceb83fe3d67bfb3'
+    justified_checkpoint:
+      epoch: 0
+      root: '0x2c8abe2391bbe13f6b9f7844c615cf3c3faea386f438587ab19f334ece77c4b6'
+    finalized_checkpoint:
+      epoch: 0
+      root: '0x2c8abe2391bbe13f6b9f7844c615cf3c3faea386f438587ab19f334ece77c4b6'
+    proposer_boost_root: '0x0000000000000000000000000000000000000000000000000000000000000000'
+- {block: block_0x507bfe9e9bca60e6631cc9cc2f1b2e7b425a8349619c2fc04dccadc05e2e7231,
+  valid: true}
+- checks:
+    time: 15
+    head:
+      slot: 3
+      root: '0xb560b99f4d78aad592c72cdd946560c5d8c00b6bf699e714e7739e4c7787184a'
+    justified_checkpoint:
+      epoch: 0
+      root: '0x2c8abe2391bbe13f6b9f7844c615cf3c3faea386f438587ab19f334ece77c4b6'
+    finalized_checkpoint:
+      epoch: 0
+      root: '0x2c8abe2391bbe13f6b9f7844c615cf3c3faea386f438587ab19f334ece77c4b6'
+    proposer_boost_root: '0xb560b99f4d78aad592c72cdd946560c5d8c00b6bf699e714e7739e4c7787184a'
+- {block: block_0x0ebfee78e10336c685d1aa88816b9c1c58b861ee4f48167562029b258ec4d00c,
+  valid: true}
+- checks:
+    time: 15
+    head:
+      slot: 3
+      root: '0xb560b99f4d78aad592c72cdd946560c5d8c00b6bf699e714e7739e4c7787184a'
+    justified_checkpoint:
+      epoch: 0
+      root: '0x2c8abe2391bbe13f6b9f7844c615cf3c3faea386f438587ab19f334ece77c4b6'
+    finalized_checkpoint:
+      epoch: 0
+      root: '0x2c8abe2391bbe13f6b9f7844c615cf3c3faea386f438587ab19f334ece77c4b6'
+    proposer_boost_root: '0xb560b99f4d78aad592c72cdd946560c5d8c00b6bf699e714e7739e4c7787184a'
+- {attestation: attestation_0x68e469afa2a9fef8e9eb4a51fb1dc03323cc13c1a3a41821fa292810a532ef84}
+- checks:
+    head:
+      slot: 1
+      root: '0x98da3f5c7287f2dbfde3c4ae67de810e9767e0183a30d238640208b4742edf69'

@@ -1,0 +1,18 @@
+deposits: []
+withdrawals:
+- source_address: '0x1cbaef702f0a4cbc946cd6093c993943d2e12a7d'
+  validator_pubkey: '0x3cab1a844585195eaa670276866b8acb8170e3d3eefd53ba9c2ce1a888abeddadd58c13e1db29b49fcacfae86d2d3de0'
+  amount: 9299853353025370176
+- source_address: '0x741a843441c77fbe737e4d7e6176e673e613af4c'
+  validator_pubkey: '0x3aebf0ae0b3da336365ea915d1c2eb6ac8a46f24000d1e05ddae78bf2a9f56673050c08e82c52041f1dc199ae0aecfb1'
+  amount: 791295809781119715
+- source_address: '0x88521e47b660266e15cca729cb47706b2860bd47'
+  validator_pubkey: '0x6a65d092857336af216883c63d33fc682ea66565e983ffa2ae9a5dd1efc5aa0cf402bef03cd2fbecff205f6c3e9d37d2'
+  amount: 758385847359976885
+- source_address: '0xff30f51ddf444cccabf7bdb83b974f3f0b39c1aa'
+  validator_pubkey: '0xf651a43dbb22d2636930e98f19aff4f5fbc7dfe70f01a65bda417a7abf2c6fd2b0c0b4f06d37cd2531e7a1fb7438ebec'
+  amount: 14061308247799408062
+consolidations:
+- source_address: '0x9a2516e8d16d760d1fb3a04fd042de836b13dad4'
+  source_pubkey: '0xae7c12e66556168e4837a060c3a08f589064de65b842f051d1e957390abb31dec953495073d71a656d2fb3fbb90fd239'
+  target_pubkey: '0xf0700a1034cd324780dbec08c1ea334817c1d21f8d340bc40dc1ea29097ffc8ed8da308942a98a91fdc0503f9a5dbc18'

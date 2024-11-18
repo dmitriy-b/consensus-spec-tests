@@ -1,0 +1,104 @@
+- checks:
+    head:
+      slot: 0
+      root: '0x20ad91939f0306d5ee970ea493b15c8fdc6072882c016f1a77090fbdf3aef621'
+- {tick: 5}
+- checks:
+    time: 5
+    head:
+      slot: 0
+      root: '0x20ad91939f0306d5ee970ea493b15c8fdc6072882c016f1a77090fbdf3aef621'
+    justified_checkpoint:
+      epoch: 0
+      root: '0x20ad91939f0306d5ee970ea493b15c8fdc6072882c016f1a77090fbdf3aef621'
+    finalized_checkpoint:
+      epoch: 0
+      root: '0x20ad91939f0306d5ee970ea493b15c8fdc6072882c016f1a77090fbdf3aef621'
+    proposer_boost_root: '0x0000000000000000000000000000000000000000000000000000000000000000'
+- {block: block_0xea2c94237b34223491989d0e97a60842a4b99c440b8396df21eda36164bd9a71,
+  valid: true}
+- checks:
+    time: 5
+    head:
+      slot: 1
+      root: '0x17d2d8e6eb0bab01c6d9ea4266a08ea327aa0c43f23efa82b8fc1755d46dcb59'
+    justified_checkpoint:
+      epoch: 0
+      root: '0x20ad91939f0306d5ee970ea493b15c8fdc6072882c016f1a77090fbdf3aef621'
+    finalized_checkpoint:
+      epoch: 0
+      root: '0x20ad91939f0306d5ee970ea493b15c8fdc6072882c016f1a77090fbdf3aef621'
+    proposer_boost_root: '0x17d2d8e6eb0bab01c6d9ea4266a08ea327aa0c43f23efa82b8fc1755d46dcb59'
+- {tick: 10}
+- checks:
+    time: 10
+    head:
+      slot: 1
+      root: '0x17d2d8e6eb0bab01c6d9ea4266a08ea327aa0c43f23efa82b8fc1755d46dcb59'
+    justified_checkpoint:
+      epoch: 0
+      root: '0x20ad91939f0306d5ee970ea493b15c8fdc6072882c016f1a77090fbdf3aef621'
+    finalized_checkpoint:
+      epoch: 0
+      root: '0x20ad91939f0306d5ee970ea493b15c8fdc6072882c016f1a77090fbdf3aef621'
+    proposer_boost_root: '0x0000000000000000000000000000000000000000000000000000000000000000'
+- {block: block_0xe9ef68ec9eb82b43417254ef8b0a9cfc3bc9f2a00a6442f3da6375d3a3a9827d,
+  valid: true}
+- checks:
+    time: 10
+    head:
+      slot: 2
+      root: '0x122b768c624b652c23616490df219e68d59f2d02b7f70b539a59b017bbb3b5ae'
+    justified_checkpoint:
+      epoch: 0
+      root: '0x20ad91939f0306d5ee970ea493b15c8fdc6072882c016f1a77090fbdf3aef621'
+    finalized_checkpoint:
+      epoch: 0
+      root: '0x20ad91939f0306d5ee970ea493b15c8fdc6072882c016f1a77090fbdf3aef621'
+    proposer_boost_root: '0x122b768c624b652c23616490df219e68d59f2d02b7f70b539a59b017bbb3b5ae'
+- {tick: 15}
+- checks:
+    time: 15
+    head:
+      slot: 2
+      root: '0x122b768c624b652c23616490df219e68d59f2d02b7f70b539a59b017bbb3b5ae'
+    justified_checkpoint:
+      epoch: 0
+      root: '0x20ad91939f0306d5ee970ea493b15c8fdc6072882c016f1a77090fbdf3aef621'
+    finalized_checkpoint:
+      epoch: 0
+      root: '0x20ad91939f0306d5ee970ea493b15c8fdc6072882c016f1a77090fbdf3aef621'
+    proposer_boost_root: '0x0000000000000000000000000000000000000000000000000000000000000000'
+- {block: block_0x87faccd5fdbc819ceea5e1f9d7e5aef4808ab7a54e1e1ae56d827835eed49425,
+  valid: true}
+- checks:
+    time: 15
+    head:
+      slot: 3
+      root: '0xb229731a6163ec8d90444908395d47a8669285ac9b1f0709833666fbedd47114'
+    justified_checkpoint:
+      epoch: 0
+      root: '0x20ad91939f0306d5ee970ea493b15c8fdc6072882c016f1a77090fbdf3aef621'
+    finalized_checkpoint:
+      epoch: 0
+      root: '0x20ad91939f0306d5ee970ea493b15c8fdc6072882c016f1a77090fbdf3aef621'
+    proposer_boost_root: '0xb229731a6163ec8d90444908395d47a8669285ac9b1f0709833666fbedd47114'
+- {block: block_0xebe4fdcc769a590894591307ec1df0668703b6051aed0d9dc777d9e49dce0a97,
+  valid: true}
+- checks:
+    time: 15
+    head:
+      slot: 3
+      root: '0xb229731a6163ec8d90444908395d47a8669285ac9b1f0709833666fbedd47114'
+    justified_checkpoint:
+      epoch: 0
+      root: '0x20ad91939f0306d5ee970ea493b15c8fdc6072882c016f1a77090fbdf3aef621'
+    finalized_checkpoint:
+      epoch: 0
+      root: '0x20ad91939f0306d5ee970ea493b15c8fdc6072882c016f1a77090fbdf3aef621'
+    proposer_boost_root: '0xb229731a6163ec8d90444908395d47a8669285ac9b1f0709833666fbedd47114'
+- {attestation: attestation_0x47bb70b8650c179efaebed088127c6203a200039fed71761c5ec89720d875503}
+- checks:
+    head:
+      slot: 1
+      root: '0xb4ce050bdf9bfe5a0aff9c90e01b87cab2470c4fa9afcaf999db44b7e51da590'

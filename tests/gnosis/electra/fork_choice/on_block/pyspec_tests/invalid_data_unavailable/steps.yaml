@@ -1,0 +1,30 @@
+- {tick: 0}
+- checks:
+    time: 0
+    head:
+      slot: 0
+      root: '0x405bbc72f59ccd105ed90186190e8d4d9b9d13f111c4ea7ad004091db51a9dc0'
+    justified_checkpoint:
+      epoch: 0
+      root: '0x405bbc72f59ccd105ed90186190e8d4d9b9d13f111c4ea7ad004091db51a9dc0'
+    finalized_checkpoint:
+      epoch: 0
+      root: '0x405bbc72f59ccd105ed90186190e8d4d9b9d13f111c4ea7ad004091db51a9dc0'
+    proposer_boost_root: '0x0000000000000000000000000000000000000000000000000000000000000000'
+- {tick: 5}
+- checks:
+    time: 5
+    head:
+      slot: 0
+      root: '0x405bbc72f59ccd105ed90186190e8d4d9b9d13f111c4ea7ad004091db51a9dc0'
+    justified_checkpoint:
+      epoch: 0
+      root: '0x405bbc72f59ccd105ed90186190e8d4d9b9d13f111c4ea7ad004091db51a9dc0'
+    finalized_checkpoint:
+      epoch: 0
+      root: '0x405bbc72f59ccd105ed90186190e8d4d9b9d13f111c4ea7ad004091db51a9dc0'
+    proposer_boost_root: '0x0000000000000000000000000000000000000000000000000000000000000000'
+- block: block_0x2251d614457d0697647a2c2aaed0b2ad7ca4ea01bdd43fa3bd7c4704fb18976f
+  blobs: blobs_0x7a0501f5957bdf9cb3a8ff4966f02265f968658b7a9c62642cba1165e86642f5
+  proofs: []
+  valid: false

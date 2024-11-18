@@ -1,0 +1,6 @@
+deposits: []
+withdrawals:
+- source_address: '0xc8277040de1e650de36606fca88979d985745f4d'
+  validator_pubkey: '0x77f132cfd7a41e64498b081917cfd0141f4d361ddef43fc18e045b9a6b7aa5d9cbc6fb89d30884a902299934a7504181'
+  amount: 3037718099366843454
+consolidations: []

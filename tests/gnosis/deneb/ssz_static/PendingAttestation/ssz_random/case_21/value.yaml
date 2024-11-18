@@ -1,0 +1,13 @@
+aggregation_bits: '0x03'
+data:
+  slot: 2795035349186200209
+  index: 2412717283298572097
+  beacon_block_root: '0x6ae205ca60094556cf483de8ad21bce722321014dea5b8a4d5d298aa0defd0cd'
+  source:
+    epoch: 11950702148632876459
+    root: '0x737936fa46a520f629526ca3af1a52653bd56e1e2e810c4bc4eadcae3e547986'
+  target:
+    epoch: 29141463435965739
+    root: '0x0dae2fce13d402f9d4e914fbb0b618433dae3a760de903ecd06a7cfbb4b6ab3a'
+inclusion_delay: 18445070767647964695
+proposer_index: 145346875511564903
